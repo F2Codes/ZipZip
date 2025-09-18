@@ -20,6 +20,8 @@ This project is **lightweight**, **doesn't require external libraries**, and can
 ZipProject/ ├─ src/ │   └─ main.c         # Main C code ├─ input.txt           # Sample text file ├─ output.rle          # Compressed file generated └─ decompressed.txt    # Decompressed output
 
 ---
+## 🌐To see more Features
+https://F2Codes.GitHub.io/ZipZip/
 
 ## ⚡ How to Run
 
